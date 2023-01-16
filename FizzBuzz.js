@@ -7,10 +7,10 @@
  */
 
 
-// If i is a multiple of both 3 and 5, print FizzBuzz.
-// If i is a multiple of 3 (but not 5), print Fizz.
-// If i is a multiple of 5 (but not 3), print Buzz.
-// If i is not a multiple of 3Â or 5, print the value of i.
+// If i is a multiple of both 3 and 5, print FizzBuzz
+// If i is a multiple of 5 (but not 3), print Buzz
+// If i is a multiple of 3 (but not 5), print Fizz
+// If i is not a multiple of 3 or 5, print the value of i
 
 
 
@@ -36,4 +36,4 @@ function fizzBuzz(n) {
 }
 
 
-fizzBuzz(15);
+fizzBuzz(15); // I insert 15 for n here
